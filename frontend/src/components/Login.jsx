@@ -65,7 +65,7 @@ function Login({ onLoginSuccess, onSwitchToRegister }) {
       <div className="auth-card">
         <div className="auth-logo">
           <div className="auth-logo-icon">💬</div>
-          <span className="auth-logo-text">Ripple</span>
+          <span className="auth-logo-text">ConvoSphere</span>
         </div>
         <h1 className="auth-heading">Welcome back</h1>
         <p className="auth-subheading">Sign in to pick up where you left off</p>
@@ -99,7 +99,7 @@ function Login({ onLoginSuccess, onSwitchToRegister }) {
         {error && <div className="auth-error">{error}</div>}
 
         <p className="auth-footer">
-          New to Ripple?{' '}
+          New to ConvoSphere?{' '}
           <span className="auth-link" onClick={onSwitchToRegister}>Create an account</span>
         </p>
       </div>

@@ -85,7 +85,7 @@ function Register({ onSwitchToLogin }) {
       <div className="auth-card">
         <div className="auth-logo">
           <div className="auth-logo-icon">💬</div>
-          <span className="auth-logo-text">Ripple</span>
+          <span className="auth-logo-text">ConvoSphere</span>
         </div>
         <h1 className="auth-heading">Create account</h1>
         <p className="auth-subheading">Join the conversation in seconds</p>

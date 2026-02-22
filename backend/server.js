@@ -143,4 +143,4 @@ io.on('connection', (socket) => {
 });
 
 const PORT = process.env.PORT || 5000;
-server.listen(PORT, () => console.log(`🚀 Ripple server running on http://localhost:${PORT}`));
+server.listen(PORT, () => console.log(`🚀 ConvoSphere server running on http://localhost:${PORT}`));

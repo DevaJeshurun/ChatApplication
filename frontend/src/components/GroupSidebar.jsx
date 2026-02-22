@@ -76,7 +76,7 @@ function GroupSidebar({ username, activeRoom, onSelectRoom, onLogout }) {
                 display: 'flex', alignItems: 'center', justifyContent: 'center',
                 fontSize: 14,
               }}>💬</div>
-              <span style={{ fontSize: 16, fontWeight: 700, color: '#f1f5f9', letterSpacing: '-0.3px' }}>Ripple</span>
+              <span style={{ fontSize: 16, fontWeight: 700, color: '#f1f5f9', letterSpacing: '-0.3px' }}>ConvoSphere</span>
             </div>
             <button onClick={onLogout} title="Sign out" style={{
               background: 'none', border: 'none', color: '#3a3a5c',
