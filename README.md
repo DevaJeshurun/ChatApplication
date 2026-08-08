@@ -74,6 +74,4 @@ Socket.IO Server
 ↓  
 MongoDB Database  
 
----
 
-## Project Structure
